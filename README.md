@@ -286,15 +286,13 @@ order_tracking_app/
 
 ## 📸 Screenshots
 
-> Add your app screenshots here to showcase the UI/UX
+| Splash | Login | Register |
+|-------|-------|----------|
+| ![Splash](assets/screenshots/splash_screen.png) | ![Login](assets/screenshots/login.png) | ![Register](assets/screenshots/register.png) |
 
-```
-## Home Screen          ## Order Tracking       ## Order History
-[Screenshot 1]         [Screenshot 2]          [Screenshot 3]
-
-## Map View             ## Order Details        ## Settings
-[Screenshot 4]         [Screenshot 5]          [Screenshot 6]
-```
+| Orders | Select Location | App Overview |
+|--------|-----------------|--------------|
+| ![Orders](assets/screenshots/orders.png) | ![Select Location](assets/screenshots/select_location_order.png) | ![App](assets/screenshots/order_tracking_app.png) |
 
 **How to add screenshots:**
 1. Create a `screenshots/` folder in your repository
