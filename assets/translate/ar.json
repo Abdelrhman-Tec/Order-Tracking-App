@@ -1,0 +1,13 @@
+{
+  "username": "اسم المستخدم",
+  "enter_username": "أدخل اسم المستخدم",
+  "email": "البريد الإلكتروني",
+  "enter_email": "أدخل البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "enter_password": "أدخل كلمة المرور",
+  "register": "تسجيل",
+  "already_have_account": "لديك حساب بالفعل؟ ",
+  "login": "تسجيل الدخول",
+  "dont_have_account": "ليس لديك حساب؟ ",
+  "login_button": "تسجيل الدخول"
+}

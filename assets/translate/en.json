@@ -1,0 +1,13 @@
+{
+  "username": "Username",
+  "enter_username": "Enter Username",
+  "email": "Email",
+  "enter_email": "Enter Email",
+  "password": "Password",
+  "enter_password": "Enter Password",
+  "register": "Register",
+  "already_have_account": "Already have an account? ",
+  "login": "Login",
+  "dont_have_account": "Don't have an account? ",
+  "login_button": "Login"
+}
