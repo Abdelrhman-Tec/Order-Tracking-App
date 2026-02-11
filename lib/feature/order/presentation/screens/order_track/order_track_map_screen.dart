@@ -25,10 +25,8 @@ class OrderTrackMapScreen extends StatefulWidget {
 }
 
 class _OrderTrackMapScreenState extends State<OrderTrackMapScreen> {
-  final Completer<GoogleMapController> controller =
-      Completer<GoogleMapController>();
-  final CustomInfoWindowController _customInfoWindowController =
-      CustomInfoWindowController();
+  final Completer<GoogleMapController> controller = .new();
+  final CustomInfoWindowController _customInfoWindowController = .new();
   final Set<Marker> markers = {};
   StreamSubscription<Position>? locationSub;
   Map<PolylineId, Polyline> polylines = {};
